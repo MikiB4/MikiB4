@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/hailemikael-belay"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://github.com/MikiB4"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
 <a href="mailto:Mikibelay11@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-<a href="https://t.me/Miki_b4"><img src="https://img.shields.io/badge/TELEGRAM-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://t.me/Mikib7"><img src="https://img.shields.io/badge/TELEGRAM-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 </div>
 
