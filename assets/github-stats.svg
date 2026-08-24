@@ -1,0 +1,32 @@
+<svg viewBox="0 0 1000 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub statistics and engineering languages for MikiB4">
+  <style>
+    :root { --ink:#000000; }
+    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; fill:var(--ink); }
+    .panel,.rule,.bar { fill:none; stroke:var(--ink); stroke-width:1; }
+    .fill { fill:var(--ink); }
+    .grow { transform:scaleX(0); transform-origin:left; animation:grow .8s cubic-bezier(.2,.7,.2,1) forwards; }
+    .g2{animation-delay:.1s}.g3{animation-delay:.2s}.g4{animation-delay:.3s}.g5{animation-delay:.4s}
+    @keyframes grow { to { transform:scaleX(1); } }
+    @media (prefers-reduced-motion:reduce) { .grow { animation:none; transform:scaleX(1); } }
+  </style>
+  <rect class="panel" x="24" y="20" width="456" height="270" rx="2"/>
+  <rect class="panel" x="520" y="20" width="456" height="270" rx="2"/>
+
+  <g class="mono">
+    <text x="52" y="58" font-size="15" font-weight="700" letter-spacing="2">GITHUB REPOSITORY TELEMETRY</text>
+    <line class="rule" x1="52" y1="72" x2="452" y2="72"/>
+    <text x="52" y="110" font-size="11" letter-spacing="1">PROFILE REPOSITORIES</text><text x="436" y="110" font-size="13" text-anchor="end">PUBLIC &amp; ACTIVE</text>
+    <text x="52" y="146" font-size="11" letter-spacing="1">ENGINEERING FOCUS</text><text x="436" y="146" font-size="13" text-anchor="end">FULL-STACK &amp; MOBILE</text>
+    <text x="52" y="182" font-size="11" letter-spacing="1">ARCHITECTURE MODEL</text><text x="436" y="182" font-size="13" text-anchor="end">MULTI-TIER ERP / OFFLINE</text>
+    <text x="52" y="218" font-size="11" letter-spacing="1">SYSTEMS DELIVERED</text><text x="436" y="218" font-size="13" text-anchor="end">RAS SUITE / TENA / MEKINA</text>
+    <text x="52" y="254" font-size="11" letter-spacing="1">DEVELOPER IDENTITY</text><text x="436" y="254" font-size="13" text-anchor="end">MIKIB4 — HAILEMIKAEL</text>
+
+    <text x="548" y="58" font-size="15" font-weight="700" letter-spacing="2">PRIMARY ENGINEERING STACKS</text>
+    <line class="rule" x1="548" y1="72" x2="948" y2="72"/>
+    <text x="548" y="105" font-size="10">TYPESCRIPT / REACT</text><rect class="bar" x="690" y="94" width="240" height="12"/><rect class="fill grow" x="690" y="94" width="200" height="12"/>
+    <text x="548" y="141" font-size="10">PHP / LARAVEL</text><rect class="bar" x="690" y="130" width="240" height="12"/><rect class="fill grow g2" x="690" y="130" width="160" height="12"/>
+    <text x="548" y="177" font-size="10">REACT NATIVE</text><rect class="bar" x="690" y="166" width="240" height="12"/><rect class="fill grow g3" x="690" y="166" width="130" height="12"/>
+    <text x="548" y="213" font-size="10">C++ / COMPILERS</text><rect class="bar" x="690" y="202" width="240" height="12"/><rect class="fill grow g4" x="690" y="202" width="90" height="12"/>
+    <text x="548" y="249" font-size="10">FLUTTER / DART</text><rect class="bar" x="690" y="238" width="240" height="12"/><rect class="fill grow g5" x="690" y="238" width="70" height="12"/>
+  </g>
+</svg>

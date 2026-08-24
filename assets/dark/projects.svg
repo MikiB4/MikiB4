@@ -1,0 +1,68 @@
+<svg viewBox="0 0 1000 830" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Featured projects by Hailemikael Belay">
+  <style>
+    :root { --ink:#000000; --paper:#FFFFFF; }
+    @media (prefers-color-scheme:dark) { :root { --ink:#FFFFFF; --paper:#000000; } }
+    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
+    .row { opacity:0; animation:reveal .55s cubic-bezier(.2,.7,.2,1) forwards; }
+    .rule { stroke:var(--ink); stroke-width:1; }
+    .title { fill:var(--ink); font-size:16px; font-weight:700; letter-spacing:.8px; }
+    .copy { fill:var(--ink); font-size:12px; }
+    .meta { fill:var(--ink); font-size:11px; letter-spacing:.4px; }
+    @keyframes reveal { from { opacity:0; } to { opacity:1; } }
+    .r1{animation-delay:.05s}.r2{animation-delay:.12s}.r3{animation-delay:.19s}.r4{animation-delay:.26s}.r5{animation-delay:.33s}.r6{animation-delay:.40s}.r7{animation-delay:.47s}
+    @media (prefers-reduced-motion:reduce) { .row { animation:none; opacity:1; } }
+    :root { --ink:#FFFFFF; --paper:#000000; }
+  </style>
+
+  <g class="mono">
+    <g class="row r1" transform="translate(0 20)">
+      <text class="title" x="48" y="24">01 / RAS SUITE — BESPOKE TAILORING ERP (FRONTEND)</text>
+      <text class="copy" x="48" y="49">High-performance tailoring platform with real-time measurement tracking, fabric inventory, and multi-shop workflows.</text>
+      <text class="copy" x="48" y="68">Built with reactive TanStack Start and Radix UI components for low-latency operational management across floor teams.</text>
+      <text class="meta" x="48" y="87">TANSTACK START · REACT 19 · TYPESCRIPT · TAILWIND CSS · TANSTACK QUERY · RADIX UI</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r2" transform="translate(0 130)">
+      <text class="title" x="48" y="24">02 / RAS SUITE — API &amp; ENTERPRISE CORE (BACKEND)</text>
+      <text class="copy" x="48" y="49">Robust multi-tenant backend engine handling shop-level permissions, supervisor queues, and fabric wastage estimation.</text>
+      <text class="copy" x="48" y="68">Implements secure JWT authentication, automated inventory transfers, and relational database schema architecture.</text>
+      <text class="meta" x="48" y="87">LARAVEL 11 · PHP · MYSQL · POSTGRESQL · ELOQUENT ORM · REST APIS · RBAC</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r3" transform="translate(0 240)">
+      <text class="title" x="48" y="24">03 / RAS SUITE — FIELD SALES &amp; MEASUREMENT INTAKE (MOBILE)</text>
+      <text class="copy" x="48" y="49">Mobile client enabling sales reps and master tailors to capture custom body measurements and manage orders on the move.</text>
+      <text class="copy" x="48" y="68">Provides offline-tolerant intake, fabric swatch browsing, and instant supervisor approval notifications.</text>
+      <text class="meta" x="48" y="87">REACT NATIVE · TYPESCRIPT · OFFLINE SYNC · MOBILE WORKFLOWS · ERP EXTENSION</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r4" transform="translate(0 350)">
+      <text class="title" x="48" y="24">04 / HEALTHTRACKER (TENA) — OFFLINE-FIRST WELLNESS APP</text>
+      <text class="copy" x="48" y="49">Modern offline-first health and wellness mobile application built with React Native, TypeScript, and local SQLite data storage.</text>
+      <text class="copy" x="48" y="68">Features BMI/weight telemetry, menstrual cycle tracking, Ethiopian dietary guides, and local notification alarms.</text>
+      <text class="meta" x="48" y="87">REACT NATIVE · TYPESCRIPT · SQLITE · HEALTH TELEMETRY · LOCAL NOTIFICATIONS</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r5" transform="translate(0 460)">
+      <text class="title" x="48" y="24">05 / MEKINAHUB — SMART PARKING FINDER (AI &amp; IOT)</text>
+      <text class="copy" x="48" y="49">Comprehensive smart parking ecosystem integrating live slot discovery, reservations, and payment processing.</text>
+      <text class="copy" x="48" y="68">Selected among the Top 10 Capstone Graduation Projects at Bahir Dar University for IoT engineering and UX.</text>
+      <text class="meta" x="48" y="87">FLUTTER · DART · NODE.JS · PRISMA · MYSQL · SOCKET.IO · IOT SENSORS · BDU TOP 10</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r6" transform="translate(0 570)">
+      <text class="title" x="48" y="24">06 / COMPILER DESIGN &amp; OPTIMIZATION SUITE</text>
+      <text class="copy" x="48" y="49">High-performance compiler pipeline featuring custom lexical analysis, tokenization, and AST syntax parsing.</text>
+      <text class="copy" x="48" y="68">Engineered in C++ with memory-safe AST nodes, symbol table managers, and intermediate code optimization passes.</text>
+      <text class="meta" x="48" y="87">C++ · COMPILER DESIGN · ABSTRACT SYNTAX TREES · LEXICAL ANALYSIS · OPTIMIZATION</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+    <g class="row r7" transform="translate(0 680)">
+      <text class="title" x="48" y="24">07 / PERSONAL PORTFOLIO &amp; INTERACTIVE UI LABS</text>
+      <text class="copy" x="48" y="49">Clean, interactive personal portfolio website showcasing software projects, technical capabilities, and engineering philosophy.</text>
+      <text class="copy" x="48" y="68">Built with responsive web design, fluid typography, dark/light theme dynamics, and accessible component architectures.</text>
+      <text class="meta" x="48" y="87">REACT · TYPESCRIPT · HTML5 · CSS3 · VITE · INTERACTION DESIGN</text>
+      <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
+    </g>
+  </g>
+</svg>

@@ -1,200 +1,36 @@
-# 👋 Hi, I'm Hailemikael Belay
+<div align="center">
 
-### 💻 Software Developer | Full-Stack Developer | Computer Science Graduate
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Hailemikael Belay"/></picture>
 
-I'm a software developer from **Ethiopia** with a strong interest in building practical, scalable, and user-focused software solutions.
+<a href="https://mikib4.github.io/personal-portfolio/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-0d1117?style=flat-square&logoColor=ffffff"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logoColor=000000" alt="Portfolio"/></picture></a>
+<a href="mailto:Mikibelay11@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RESUME_/_CONTACT-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=ffffff"/><img src="https://img.shields.io/badge/RESUME_/_CONTACT-ffffff?style=flat-square&logo=adobeacrobatreader&logoColor=000000" alt="Resume / Contact"/></picture></a>
+<a href="https://github.com/MikiB4"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GitHub"/></picture></a>
+<a href="mailto:Mikibelay11@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=ffffff"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=000000" alt="Email"/></picture></a>
 
-I recently completed my **Computer Science degree** and have hands-on experience developing **web applications, mobile applications, REST APIs, authentication systems, payment-enabled platforms, and database-driven systems**.
+</div>
 
-I enjoy turning real-world problems into reliable software and continuously improving my skills in software architecture, backend development, security, performance, and scalable system design.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Hailemikael"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — system map"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="Project ecosystem"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — projects"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="Featured projects"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 — telemetry"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Development telemetry"/></picture>
 
----
+<div align="center">
 
-## 🚀 About Me
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/><img src="assets/github-stats.svg" width="97%" alt="GitHub statistics and engineering languages"/></picture>
 
-* 🎓 **Computer Science Graduate**
-* 💻 Full-stack and mobile application developer
-* 📱 Experienced with **Flutter** and mobile application development
-* 🌐 Experienced with **React, TypeScript, and modern web development**
-* ⚙️ Experienced in building **RESTful APIs and backend systems**
-* 🗄️ Experienced with relational databases and database-driven applications
-* 🔐 Interested in authentication, authorization, security, and access control
-* 💳 Experienced with payment integration
-* 🏗️ Interested in scalable and maintainable software architecture
-* 🤖 Interested in **AI, Data Science, and intelligent software solutions**
-* 🌱 Always learning and improving
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MikiB4&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=MikiB4&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
 
----
+</div>
 
-## 🛠️ Technologies & Tools
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" alt="05 — the route"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"/><img src="assets/timeline.svg" alt="Development timeline"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"/><img src="assets/experience.svg" alt="Professional experience & achievements"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="06 — stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
 
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Frontend
-
-* React
-* TypeScript
-* Vite
-* HTML5
-* CSS3
-
-### Mobile
-
-* Flutter
-* Dart
-
-### Backend
-
-* Node.js
-* Laravel
-* REST APIs
-* Prisma
-* JWT Authentication
-
-### Databases
-
-* MySQL
-* SQL
-
-### Other
-
-* Git & GitHub
-* RESTful API development
-* Authentication & Authorization
-* Payment Integration
-* Real-time communication
-* Database design
-* Software architecture
-
----
-
-## 🔥 Featured Project
-
-### 🚗 MekinaHub — Smart Parking Finder
-
-**MekinaHub** is a full-stack smart parking platform designed to help users discover and book available parking spaces while allowing parking owners to manage their businesses.
-
-The platform includes:
-
-* 📍 Location-based parking discovery
-* 🅿️ Parking availability
-* 📅 Parking reservations
-* 💳 Payment integration
-* 🔐 Authentication and authorization
-* 💬 Real-time communication
-* 🏢 Parking business management
-* 📱 Mobile application
-* 🌐 Web platform
-* 🔄 REST APIs
-
-### Technology Stack
-
-**React • TypeScript • Flutter • Dart • Node.js • Prisma • MySQL • Socket.IO • REST APIs**
-
-MekinaHub was also selected among the **Top 10 Graduation Projects at Bahir Dar University**.
-
----
-
-## 🧵 Tailor Shop Management System
-
-I'm also developing a multi-shop **Tailor Shop Management System** designed to digitize the complete tailoring workflow.
-
-The system includes:
-
-* 🏪 Multi-shop management
-* 👥 Role-based access control
-* 📋 Order management
-* 📏 Customer measurements
-* 🧵 Fabric management
-* 📦 Inventory management
-* 👨‍💼 Supervisor management
-* ✂️ Production management
-* 📊 Fabric usage estimation
-* 🔄 Inventory transfers
-* 🗑️ Production wastage tracking
-* 🔐 Shop-level permissions
-
-The goal is to create a scalable system that connects **sales, supervisors, tailor shops, inventory, fabrics, and production** into one platform.
-
----
-
-## 🎯 What I'm Currently Focused On
-
-I'm particularly interested in:
-
-* 🏗️ Clean and scalable software architecture
-* ⚡ Backend performance optimization
-* 🔐 Application security
-* 📱 Mobile application development
-* 🌐 Full-stack development
-* 🤖 Artificial Intelligence
-* 📊 Data Science & Data Analysis
-* ☁️ Cloud computing
-* 🧠 Building intelligent software systems
-
----
-
-## 📚 Currently Learning
-
-I'm continuously improving my knowledge in:
-
-```text
-Software Architecture
-Backend Engineering
-System Design
-Cloud Computing
-Artificial Intelligence
-Data Science
-Database Optimization
-Application Security
-Scalable Systems
-```
-
----
-
-## 💡 My Development Philosophy
-
-> **Build software that solves real problems, is easy to maintain, secure by design, and can grow with its users.**
-
-I don't only focus on making an application work. I care about:
-
-* Maintainability
-* Performance
-* Security
-* Scalability
-* Clean architecture
-* Good user experience
-* Reliable data management
-
----
-
-## 📫 Connect With Me
-
-* 📧 Email: **[Mikibelay11@gmail.com](mailto:Mikibelay11@gmail.com)**
-* 📍 Ethiopia
-* 💻 GitHub: **@YOUR_GITHUB_USERNAME**
-
----
-
-## ⚡ Fun Facts
-
-* 🎨 I enjoy painting
-* 🥾 I enjoy hiking
-* 📚 I enjoy reading
-* 💻 I like experimenting with new technologies
-* 🚀 I enjoy building software from ideas into working products
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-Feel free to explore my repositories and projects. I'm always interested in learning, building, and collaborating on interesting software projects.
+<!-- one responsive picture per visual; no duplicate light/dark rendering -->
