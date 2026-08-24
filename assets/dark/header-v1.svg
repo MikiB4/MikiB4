@@ -21,14 +21,14 @@
   <line class="draw a1" x1="48" y1="58" x2="952" y2="58" stroke="var(--rule)" stroke-width="1"/>
   <g class="fade a1">
     <text class="mono" fill="var(--muted)" x="48" y="44" font-size="11" letter-spacing="3.5">PORTFOLIO — INDEX Nº 001</text>
-    <text class="mono" fill="var(--muted)" x="952" y="44" font-size="11" letter-spacing="3.5" text-anchor="end">ADDIS ABABA, ET — 9.03° N</text>
+    <text class="mono" fill="var(--muted)" x="952" y="44" font-size="11" letter-spacing="3.5" text-anchor="end">BAHIR DAR, ET — 11.59° N</text>
   </g>
 
   <g class="rise a2">
     <text fill="var(--bone)" class="mono" x="46" y="176" font-size="70" letter-spacing="-2">Hailemikael Belay</text>
   </g>
   <g class="fade a3">
-    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">Software Engineer &amp; Mobile Architect — Addis Ababa, Ethiopia.</text>
+    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">Software Engineer &amp; Mobile Architect — Bahir Dar, Ethiopia.</text>
   </g>
 
   <g class="fade a4">
